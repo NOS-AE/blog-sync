@@ -1,0 +1,21 @@
+main:
+  # 是否同步到各个博客系统
+  cnblogs: false
+  # 后续可以添加更多博客系统的开关
+  # zhihu: false
+  # csdn: false
+
+cnblogs:
+  url: "https://rpc.cnblogs.com/metaweblog/your-username"
+  username: "your-username"
+  token: "your-token"
+
+# 后续可以添加更多博客系统的配置
+# zhihu:
+#   username: "your-username"
+#   password: "your-password"
+#   cookie: "your-cookie"
+
+# csdn:
+#   username: "your-username"
+#   password: "your-password" 
